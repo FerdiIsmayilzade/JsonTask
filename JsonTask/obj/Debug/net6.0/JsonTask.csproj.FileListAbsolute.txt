@@ -1,0 +1,17 @@
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\bin\Debug\net6.0\JsonTask.exe
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\bin\Debug\net6.0\JsonTask.deps.json
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\bin\Debug\net6.0\JsonTask.runtimeconfig.json
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\bin\Debug\net6.0\JsonTask.dll
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\bin\Debug\net6.0\JsonTask.pdb
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.csproj.Up2Date
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.dll
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\obj\Debug\net6.0\refint\JsonTask.dll
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.pdb
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Masaüstü\CSharp\JsonTask\JsonTask\obj\Debug\net6.0\ref\JsonTask.dll

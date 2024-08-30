@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\csharp\\jsontask\\jsontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|solutionrelative:jsontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\csharp\\jsontask\\jsontask\\product.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|solutionrelative:jsontask\\product.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\csharp\\jsontask\\jsontask\\user.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|solutionrelative:jsontask\\user.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\csharp\\jsontask\\jsontask\\controller\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|solutionrelative:jsontask\\controller\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\csharp\\jsontask\\jsontask\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|solutionrelative:jsontask\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\csharp\\jsontask\\jsontask\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|solutionrelative:jsontask\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\csharp\\jsontask\\jsontask\\services\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|solutionrelative:jsontask\\services\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\csharp\\jsontask\\jsontask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|solutionrelative:jsontask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\csharp\\jsontask\\jsontask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9D0B99-6134-4C3D-96CF-9491DD7CCBEA}|JsonTask\\JsonTask.csproj|solutionrelative:jsontask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Product.json",
+              "RelativeDocumentMoniker": "JsonTask\\Product.json",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Product.json",
+              "RelativeToolTip": "JsonTask\\Product.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T14:32:59.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\User.json",
+              "RelativeDocumentMoniker": "JsonTask\\User.json",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\User.json",
+              "RelativeToolTip": "JsonTask\\User.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T14:31:04.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Controller\\AccountController.cs",
+              "RelativeDocumentMoniker": "JsonTask\\Controller\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Controller\\AccountController.cs",
+              "RelativeToolTip": "JsonTask\\Controller\\AccountController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:27:34.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "JsonTask\\Controller\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Controller\\ProductController.cs",
+              "RelativeToolTip": "JsonTask\\Controller\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:27:24.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "JsonTask\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Services\\ProductService.cs",
+              "RelativeToolTip": "JsonTask\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:27:11.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountServices.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Services\\AccountServices.cs",
+              "RelativeDocumentMoniker": "JsonTask\\Services\\AccountServices.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Services\\AccountServices.cs",
+              "RelativeToolTip": "JsonTask\\Services\\AccountServices.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:27:00.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "JsonTask\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Models\\Product.cs",
+              "RelativeToolTip": "JsonTask\\Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:26:02.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JsonTask\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Models\\User.cs",
+              "RelativeToolTip": "JsonTask\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:25:55.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Program.cs",
+              "RelativeDocumentMoniker": "JsonTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\CSharp\\JsonTask\\JsonTask\\Program.cs",
+              "RelativeToolTip": "JsonTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:23:56.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

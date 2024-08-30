@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Email": "ferdi@gmail.com",
+    "Password": "ferdi123"
+  },
+  {
+    "Id": 2,
+    "Email": "nihat@gmail.com",
+    "Password": "nihat123"
+  },
+  {
+    "Id": 3,
+    "Email": "valeh@gmail.com",
+    "Password": "valeh123"
+  },
+  {
+    "Id": 4,
+    "Email": "terxan@gmail.com",
+    "Password": "terxan123"
+  }
+
+]
